@@ -1,2 +1,2 @@
 # agentai
-agent ai capstone project
+agent ai capstone project.
